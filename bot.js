@@ -4,12 +4,12 @@ const Groq = require('groq-sdk');
 
 // ========== AYARLAR ==========
 const CONFIG = {
-  host: 'SERVER_IP_BURA',     // Serverin IP-si
+  host: 'wafflesonne.com',     // Serverin IP-si
   port: 25565,                  // Port (default 25565)
-  username: 'BotAdi',           // Botun adı
+  username: 'models',           // Botun adı
   version: '1.20.1',
   owner: 'VenomSlicer',         // Sənin oyun adın
-  groqApiKey: 'GROQ_API_KEY_BURA' // Yeni Groq key-i bura
+  groqApiKey: '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' // Yeni Groq key-i bura
 };
 // ==============================
 
